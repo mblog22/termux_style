@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# Author: Iqbalz Noobs
+# Author: Iqbal Dev
 # Team: Life Of Programmer
 
 import os
@@ -27,10 +27,10 @@ def banner():
     os.system("clear")
     os.system("toilet -f standard 'Trmx Style' -F gay")
 #    print m+"+--------------------------------------+"
-    os.system("echo '|  Author: Iqbalz Noobs' | lolcat")
+    os.system("echo '|  Author: Iqbal Dev   ' | lolcat")
     os.system("echo '|  Team: Life Of Programmer' | lolcat")
-    os.system("echo '|  Instagram: Iqbalz5' | lolcat")
-    os.system("echo '|  Facebook: Iqbalznoobs' | lolcat")
+    os.system("echo '|  Instagram: Iqbaldev' | lolcat")
+    os.system("echo '|  Facebook: Iqbal Dev  ' | lolcat")
     print m+"+------------------------------------------------+ "
     print h+"   [\033[97m1\033[92m] \033[96mEyes Gay",h+"      [\033[97m6\033[92m] \033[96mName Lolcat"
     print h+"   [\033[97m2\033[92m] \033[96mEyes Lolcat",h+"   [\033[97m7\033[92m] \033[96mName Gay"
