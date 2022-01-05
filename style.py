@@ -16,7 +16,7 @@ b = "\033[94;1m"
 p = "\033[95;1m"
 a = "\033[96;1m"
 s = "\033[97;1m"
-
+a
 
 def runntxt(noob):
     for lol in noob + '\n':
